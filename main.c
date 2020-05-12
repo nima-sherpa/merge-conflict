@@ -10,10 +10,9 @@ Initial Security()
  //Sample Code
 }
 
-feature1 add()
-
+feature1()
 {
-//feature1 added
+  //Sample Code for Feature 1
 }
 
 }
